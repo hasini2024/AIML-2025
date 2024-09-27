@@ -8,7 +8,7 @@
 1. [Lab 05](https://github.com/hasini2024/AIML-2025/blob/main/AIML_A5.pdf): Introduction to Python Libraries-Numpy
 1. [Lab 06](https://github.com/hasini2024/AIML-2025/blob/main/AIML_A6.pdf): Introduction to Python Libraries-Numpy
 1. [Lab 07](https://github.com/hasini2024/AIML-2025/blob/main/AIML_A7.pdf): Introduction to Python Libraries-Numpy
-1. [Lab 08](): Introduction to Python Libraries-Numpy
+1. [Lab 08](https://github.com/hasini2024/AIML-2025/blob/main/AIML_A8.pdf): Introduction to Python Libraries-Numpy
 
 
 # Artificial Intelligence and Machine Learning Lab Jupyter Notebooks
